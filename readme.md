@@ -13,6 +13,3 @@ Each certificate has its own folder containing the certificate file (PDF/PNG) an
 | Generative AI for All | Infosys Springboard | Jan 24, 2025 | [Verify Here](https://verify.onwingspan.com) |
 
 ---
-
-
-
