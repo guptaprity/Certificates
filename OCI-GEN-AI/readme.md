@@ -1,4 +1,4 @@
-```markdown
+
 # 📜 Certificates
 
 ## Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
