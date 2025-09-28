@@ -15,7 +15,5 @@ This certification is issued by **Oracle** and validates skills in:
 **Expiration Date:** September 25, 2027  
 
 ### 🏅 Certificate Badge
-[![Certificate Preview](./OCI-Generative-AI/GENAIeCertificate.png)](./OCI-Generative-AI/GENAIeCertificate.pdf)
 
-🔗 [View Certificate on Oracle Catalog](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4B7E77E4C2722C05CDF33EC66661FCEE990C48324C4C80BE669DB1373B44BC49)
 ```
