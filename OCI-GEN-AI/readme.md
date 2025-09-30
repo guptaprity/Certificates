@@ -1,6 +1,5 @@
 # 🎓 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
-This repository highlights my achievement of the **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** certification.
 The certification validates my knowledge and skills in **Generative AI**, **OCI services**, and applying AI solutions using Oracle Cloud.
 
 ---
