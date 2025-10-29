@@ -6,9 +6,12 @@
 **Issued By:** Oracle  
 **Issue Date:** October 14, 2025  
 **Expiration Date:** October 14, 2027  
-**Credential:** [Oracle Cloud Infrastructure 2025 Certified Developer Professional](#)  
+**Verification Link** [https://catalog-education.oracle.com/ords/certview/sharebadge?id=034B9DF196A7FBB1E37B5F1CF1CD31A674C0A795D30056567D33611411AAE045]
+
 
 ---
+**Certificate**
+<img width="1045" height="741" alt="Oracle Cloud Infrastructure 2025 Certified Developer Professional" src="https://github.com/user-attachments/assets/c4b7fcda-2d1f-47a6-835b-5da5d13b44a2" />
 
 ## 📘 Overview
 
